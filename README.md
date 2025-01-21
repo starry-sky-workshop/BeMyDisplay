@@ -1,7 +1,7 @@
 # BeMyDisplay
 BeMyDisplay turns iPad/iPhone into a second display for Windows PC.
 
-The advanced design let BeMyDisplay provide unparalleled display effect: pixel perfect + ultra-low latency (and all this is free!).
+The advanced design let BeMyDisplay provide unparalleled display effect: pixel perfect + ultra-low latency (free of trial，and free use plan based on incentive advertising will be introduced in the future).
 
 To get started, plug your iPad/iPhone into your Windows PC with USB cable, and run BeMyDisplay on both windows and iOS side, then BeMyDisplay will turn your iPad/iPhone into a high-performance second display for your PC automatically.
 
@@ -16,6 +16,7 @@ BeMyDisplay Works With:
   - BeMyDisplay supports integrated graphics in Intel CPUs from the 6th generation and newer, while integrated graphics prior to the 6th generation has not been tested.
   - BeMyDisplay supports Nvidia graphics cards from the 10 series and newer, while cards prior to the 10 series has not been tested.
   - BeMyDisplay does not support AMD graphics cards at present.
+  - The higher the performance of the graphics card, the lower the display latency of BeMyDisplay
 
 ## Tips
 
