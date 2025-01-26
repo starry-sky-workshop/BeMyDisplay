@@ -1,5 +1,8 @@
 # BeMyDisplay
-中文版说明见 https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
+中文版说明见：
+https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
+或者
+https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
 
 BeMyDisplay turns iPad/iPhone into a second display for Windows PC.
 
