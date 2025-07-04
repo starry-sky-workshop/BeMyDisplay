@@ -6,9 +6,13 @@
 
 ----------------------------------------------------------------------
 
-[中文版说明，以及安装包下载地址](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+[中文版使用说明链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
-[备用地址](https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+[安装包下载链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/releases/tag/v1.0.0)
+
+[备用说明书链接](https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+
+[备用安装包下载链接](https://github.com/starry-sky-workshop/BeMyDisplay/releases/tag/v1.0.0)
 
 ----------------------------------------------------------------------
 
