@@ -8,7 +8,7 @@
 
 [中文版说明，以及安装包下载地址](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
-[中文版说明，以及安装包下载备用地址](https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+[备用地址](https://github.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 ----------------------------------------------------------------------
 
