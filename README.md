@@ -6,7 +6,7 @@
 
 ----------------------------------------------------------------------
 
-[中文版使用说明链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+[中文版使用说明书链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
 
 [安装包下载链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/releases/tag/v1.0.0)
 
@@ -24,7 +24,7 @@ To get started, plug your iPad/iPhone into your Windows PC with USB cable, and r
 
 BeMyDisplay Works With:
 
-- All iPad/iPhone with iOS 12.0 and later
+- All iPad/iPhone with iOS 13.0 and later
 
 - All PC with Intel integrated graphics or Nvidia independent graphics card and Windows 2004 and later
 
