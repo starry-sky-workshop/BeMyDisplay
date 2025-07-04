@@ -2,8 +2,6 @@
 
 [Download link for the installation package](https://github.com/starry-sky-workshop/BeMyDisplay/releases/tag/v1.0.0)
 
-[Alternate download link](https://gitee.com/starry-sky-workshop/BeMyDisplay/releases/tag/v1.0.0)
-
 ----------------------------------------------------------------------
 
 [中文版使用说明书链接](https://gitee.com/starry-sky-workshop/BeMyDisplay/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
