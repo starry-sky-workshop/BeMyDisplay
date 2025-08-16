@@ -12,15 +12,15 @@ BeMyDisplay 可将 iPad/iPhone 变成 Windows 电脑额外的一块儿显示屏�
 
 BeMyDisplay 适用于：
 
-- 搭载 iOS 13 或更高版本的 iPad/iPhone 
+- 搭载 iOS 12 或更高版本的 iPad/iPhone 
 
-- 搭载 Windows 10 2004 或更高版本的电脑（并配备 Intel 核芯显卡或 Nvidia 独立显卡）
+- 搭载 Windows 10 (2004 或更高版本) 或 Windows 11 的电脑（并配备 Intel 核芯显卡或 Nvidia 独立显卡）
 
   P.S.
 
   - BeMyDisplay 支持 Intel 6代及更新的CPU中的集成显卡，6代之前的集显的支持情况暂未测试过
   - BeMyDisplay 支持 Nvidia 10系列及更新的显卡系列，但10系列之前的显卡的支持情况暂未测试过
-  - BeMyDisplay 暂不支持 AMD 显卡
+  - 未来也将支持 AMD 显卡 
   - 显卡性能越高，BeMyDisplay的显示延迟越低
   
   
@@ -42,3 +42,4 @@ BeMyDisplay 适用于：
    方案三：
 
    卸载从 微软应用商店（Microsoft Store）安装的 iTunes 软件，然后重新安装 BeMyDisplay；此后就可正常使用 BeMyDisplay 了，也即：在 iPad/iPhone 已用 USB 数据线连接到 Windows 的情况下，可随时打开 Windows 和 iOS 上的 BeMyDisplay 进而将 iPad/iPhone 变成 Windows 电脑额外的一块儿显示屏
+
