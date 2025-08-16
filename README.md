@@ -18,16 +18,16 @@ To get started, plug your iPad/iPhone into your Windows PC with USB cable, and r
 
 BeMyDisplay Works With:
 
-- All iPad/iPhone with iOS 13.0 and later
+- All iPad/iPhone with iOS 12.0 and later
 
-- All PC with Intel integrated graphics or Nvidia independent graphics card and Windows 2004 and later
+- All PC with Intel/Nvidia graphics card and Windows 10 (Version 2004 or newer) or Windows 11
 
   P.S.
 
   - BeMyDisplay supports integrated graphics in Intel CPUs from the 6th generation and newer, while integrated graphics prior to the 6th generation has not been tested.
   - BeMyDisplay supports Nvidia graphics cards from the 10 series and newer, while cards prior to the 10 series has not been tested.
-  - BeMyDisplay does not support AMD graphics cards at present.
-  - The higher the performance of the graphics card, the lower the display latency of BeMyDisplay
+  - AMD graphics cards will soon be supported.
+  - The higher the performance of the graphics card, the lower the display latency of BeMyDisplay.
 
 ## Tips
 
